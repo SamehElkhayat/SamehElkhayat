@@ -101,7 +101,7 @@ I worked as the **lead frontend developer**, responsible for building and optimi
 - ✅ Contributed to improved online visibility and client engagement through an optimized user experience
 
 **🔗 Links:**
-[![Website](https://img.shields.io/badge/Visit%20Website-tanmia.com.eg-blue?style=for-the-badge&logo=web&logoColor=white)](https://tanmia.com.eg)
+[![Website](https://img.shields.io/badge/Visit%20Website-tanmia.com.eg-blue?style=for-the-badge&logo=web&logoColor=white)](http://tanmia.com.eg)
 
 ---
 
