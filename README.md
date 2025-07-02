@@ -131,7 +131,7 @@ I worked as the **lead frontend developer**, responsible for building and optimi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameh-mohamed-ali-elkhayat-149a72106)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drsamehmohamed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameh.elkhayaat@gmail.com)
 
 </div>
 
